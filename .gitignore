@@ -1,0 +1,18 @@
+# Unnecessary external asset folders
+api-ecommerce.hostinger.com/
+assets.zyrosite.com/
+cdn.zyrosite.com/
+images.unsplash.com/
+www.googletagmanager.com/
+verificationsystem/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
